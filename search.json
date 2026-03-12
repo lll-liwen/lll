@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "张三的个人主页",
+    "section": "",
+    "text": "学号：2025303120164\n专业：生物信息学\n兴趣：数据分析、机器学习\n\n\n\n\n\nR 语言\nPython\nQuarto"
+  },
+  {
+    "objectID": "index.html#关于我",
+    "href": "index.html#关于我",
+    "title": "张三的个人主页",
+    "section": "",
+    "text": "学号：2025303120164\n专业：生物信息学\n兴趣：数据分析、机器学习"
+  },
+  {
+    "objectID": "index.html#技能",
+    "href": "index.html#技能",
+    "title": "张三的个人主页",
+    "section": "",
+    "text": "R 语言\nPython\nQuarto"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "我是生物信息学专业的学生，对数据分析和机器学习感兴趣。\n\n\n\nGitHub: lll-liwen\n邮箱: your.email@example.com"
+  },
+  {
+    "objectID": "about.html#联系方式",
+    "href": "about.html#联系方式",
+    "title": "About",
+    "section": "",
+    "text": "GitHub: lll-liwen\n邮箱: your.email@example.com"
+  }
+]
