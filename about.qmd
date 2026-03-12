@@ -1,0 +1,12 @@
+﻿---
+title: "About"
+---
+
+# 关于我
+
+我是生物信息学专业的学生，对数据分析和机器学习感兴趣。
+
+## 联系方式
+
+- GitHub: [lll-liwen](https://github.com/lll-liwen)
+- 邮箱: your.email@example.com
